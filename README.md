@@ -63,15 +63,17 @@ Completed C# programming assignments involving lists, arrays, methods, loops, al
 
 ## 💼 Experience
 
-### Hiring Assistant
+### WWO Hiring Assistant
+**Brigham Young University–Idaho**
 
 Support hiring and administrative tasks while attending BYU–Idaho, developing skills in communication, organization, professionalism, and attention to detail.
 
-### ⚖️ Law Firm Project Assistant
+### Project Assistant
+**Hutchison & Steffen, PLLC**
 
 Assisted with administrative and project-related work in a professional law firm environment, including organizing documents and supporting staff with time-sensitive tasks.
 
-### 🌎 Volunteer Missionary & Financial Secretary
+### Volunteer Missionary & Financial Secretary
 **Brazil Curitiba Mission**
 
 Served as a full-time missionary in Brazil for two years. Also served as a Financial Secretary, working with financial records, expenses, reimbursements, spreadsheets, and administrative data.
