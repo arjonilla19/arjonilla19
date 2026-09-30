@@ -90,4 +90,4 @@ Served as a full-time missionary in Brazil for two years. Also served as a Finan
 
 ## 📫 Connect With Me
 
-🔗 [LinkedIn]([www.linkedin.com/in/carlos-arjonilla](https://www.linkedin.com/in/carlos-arjonilla/))
+🔗 [LinkedIn](https://www.linkedin.com/in/carlos-arjonilla/)
