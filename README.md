@@ -1,31 +1,91 @@
-# Carlos Arjonilla
+# Hi, I'm Carlos Arjonilla 👋
 
-Hello, GitHub! 👋
+## 👨‍💻 About Me
 
-I'm Carlos Arjonilla, a Computer Science student at Brigham Young University-Idaho with a strong interest in soccer data analytics. My goal is to combine technology, data, and my love for soccer to build a career in the professional game. ⚽📊
+I'm a **Computer Science student at Brigham Young University–Idaho** with interests in **data analytics, databases, software development, and professional soccer**.
 
-## About Me
+My goal is to combine my technical skills with my passion for soccer and pursue a career in areas such as **soccer data analytics, sports technology, or soccer operations**.
 
-- 🎓 Computer Science student at BYU-Idaho
-- ⚽ Interested in soccer analytics, performance data, scouting, and sports technology
-- 💻 Currently learning C#, SQL, data structures, databases, and algorithm analysis
-- 📊 Interested in using data to better understand player and team performance
-- 🎯 Career goal: work in data or analytics for a professional soccer organization
-- 🌎 English, Spanish, and Portuguese speaker
+- 🎓 Computer Science student at BYU–Idaho
+- ⚽ Interested in soccer analytics and sports technology
+- 📊 Enjoy working with data and databases
+- 💻 Currently developing my skills in C#, SQL, Python, and data structures
+- 🌎 Speak English, Portuguese, and Spanish
+- 🇧🇷 Served a two-year mission in Curitiba, Brazil
 
-## Technologies & Tools
+---
 
-- **Languages:** C#, SQL
-- **Tools:** Git, GitHub, Visual Studio Code
-- **Currently Learning:** Data Structures, Relational Databases, Algorithms
-- **Interests:** Data Analytics, Sports Analytics, Soccer Technology
+## 🛠️ Skills & Technologies
 
-## What I'm Working Toward
+### Programming
+- C#
+- SQL
+- Python *(Learning)*
+- HTML/CSS
 
-I'm continuing to develop my programming and data skills while learning more about how technology is used throughout professional soccer. As I build projects, I'll be adding them here to document my progress.
+### Computer Science & Data
+- Data Structures
+- Algorithms
+- Object-Oriented Programming
+- Big-O Analysis
+- Relational Databases
+- Database Design
+- Data Normalization
+- Data Analysis
 
-## Let's Connect!
+### Tools
+- Git
+- GitHub
+- GitHub Desktop
+- JetBrains Rider
+- Visual Studio Code
+- Microsoft Excel
+- Google Sheets
 
-- 💼 [LinkedIn](www.linkedin.com/in/carlos-arjonilla)
+---
 
-Feel free to explore my repositories and follow along as I continue learning and building. ⚽💻
+## 💻 Projects & Coursework
+
+### ⚽ Premier League / MLS SQL Data Analysis
+**In Progress**
+
+Developing a SQL project using professional soccer data to practice relational database design, SQL queries, and data analysis.
+
+### 🗄️ Database Design & Normalization
+
+Designed and normalized relational databases through coursework using tables, primary keys, foreign keys, and table relationships.
+
+### 💻 C# Data Structures & Algorithms
+
+Completed C# programming assignments involving lists, arrays, methods, loops, algorithms, data structures, and problem solving.
+
+---
+
+## 💼 Experience
+
+### Hiring Assistant
+
+Support hiring and administrative tasks while attending BYU–Idaho, developing skills in communication, organization, professionalism, and attention to detail.
+
+### ⚖️ Law Firm Project Assistant
+
+Assisted with administrative and project-related work in a professional law firm environment, including organizing documents and supporting staff with time-sensitive tasks.
+
+### 🌎 Volunteer Missionary & Financial Secretary
+**Brazil Curitiba Mission**
+
+Served as a full-time missionary in Brazil for two years. Also served as a Financial Secretary, working with financial records, expenses, reimbursements, spreadsheets, and administrative data.
+
+---
+
+## 🌎 Languages
+
+- English
+- Portuguese
+- Spanish
+
+---
+
+## 📫 Connect With Me
+
+🔗 [LinkedIn](www.linkedin.com/in/carlos-arjonilla)
